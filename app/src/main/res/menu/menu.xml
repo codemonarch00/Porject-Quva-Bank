@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_bar"
+        android:id="@+id/homeIcon"/>
+    <item android:title="Wallet"
+        android:icon="@drawable/baseline_walet"
+        android:id="@+id/wallet"/>
+    <item android:title="Send Asset"
+        android:icon="@drawable/send_token"
+        android:id="@+id/sendToken"/>
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_profile"
+        android:id="@+id/profilePage"/>
+</menu>
